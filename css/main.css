@@ -188,6 +188,34 @@ br#line {
   background: white;
 }
 
+#dg4 {
+  background: #46b85e;
+  padding-top: 65 px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+#dg4 h4 {
+  font-size: 40px;
+  color: Black;
+  padding: 10px;
+  background: white;
+}
+
+#dg5 {
+  background: #a546b8;
+  padding-top: 65 px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+#dg5 h4 {
+  font-size: 40px;
+  color: Black;
+  padding: 10px;
+  background: white;
+}
+
 .tilt1 {
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
